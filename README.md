@@ -4,12 +4,12 @@ This is a project basead on [Backbone-Boilerplate]("https://github.com/backbone-
 
 ## How we use
 
-### Front-End
+### Concepts
 
-* [BackboneJs]("http://backbonejs.org/")
-* [RequireJs]("http://requirejs.org/")
-* [Karma]("http://karma-runner.github.io/")
-* [Bower]("http://bower.io/")
+* Decoupling
+* Scalability
+* Testability
+* Maintainability
 
 ### Back-End
 
@@ -17,6 +17,13 @@ This is a project basead on [Backbone-Boilerplate]("https://github.com/backbone-
 * [MongoDB]("http://www.mongodb.org/")
 * [Mocha]("http://visionmedia.github.io/mocha/")
 * [Chai]("http://chaijs.com/")
+
+### Front-End
+
+* [BackboneJs]("http://backbonejs.org/")
+* [RequireJs]("http://requirejs.org/")
+* [Karma]("http://karma-runner.github.io/")
+* [Bower]("http://bower.io/")
 
 ### Others
 
