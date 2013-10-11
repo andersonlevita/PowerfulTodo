@@ -14,7 +14,9 @@ This is a project basead on [Backbone-Boilerplate]("https://github.com/backbone-
 ### Back-End
 
 * [NodeJs]("http://nodejs.org/")
-* [MongoDB]("http://www.mongodb.org/") 
+* [MongoDB]("http://www.mongodb.org/")
+* [Mocha]("http://visionmedia.github.io/mocha/")
+* [Chai]("http://chaijs.com/")
 
 ### Others
 
