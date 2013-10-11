@@ -1,6 +1,6 @@
 # PowerfulTodo
 
-This is a project basead on [TodoMVC]("http://todomvc.com/") to apply the highest concepts in software engineering.
+This is a project basead on [Backbone-Boilerplate]("https://github.com/backbone-boilerplate/backbone-boilerplate") and [TodoMVC]("http://todomvc.com/") to apply the highest concepts in software engineering.
 
 ## How we use
 
