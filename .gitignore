@@ -1,4 +1,4 @@
-/dist/
-/node_modules/
-/vendor/bower/
-/test/coverage/
+node_modules
+src/public/libs
+src/**/*.js
+docs
