@@ -15,7 +15,7 @@ This is a project of type lab basead on [Backbone-Boilerplate]("https://github.c
 
 * [NodeJs]("http://nodejs.org/")
 * [MongoDB]("http://www.mongodb.org/")
-* [Mocha]("http://visionmedia.github.io/mocha/")
+* [Mocha]("http://mochajs.org/")
 * [Chai]("http://chaijs.com/")
 
 ### Front-End
